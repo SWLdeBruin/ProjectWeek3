@@ -8,7 +8,7 @@
 </head>
 <body>
     <div>
-        <h1>GitHub Test!</h1>
+        <h1>Verandering</h1>
     </div>
 </body>
 </html>
