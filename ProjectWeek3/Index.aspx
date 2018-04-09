@@ -8,8 +8,9 @@
 </head>
 <body>
     <div>
-        <h1>Verandering</h1>
-        <p>Dit is een tekst</p>
+        <% RenderSjoerd(); %>
+
+        <% RenderJasper(); %>
     </div>
 </body>
 </html>

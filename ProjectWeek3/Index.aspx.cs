@@ -13,5 +13,15 @@ namespace ProjectWeek3
         {
 
         }
+
+        public void RenderSjoerd()
+        {
+            Response.WriteFile("Index-Sjoerd.aspx");
+        }
+
+        public void RenderJasper()
+        {
+            Response.WriteFile("Index-Jasper.aspx");
+        }
     }
 }
