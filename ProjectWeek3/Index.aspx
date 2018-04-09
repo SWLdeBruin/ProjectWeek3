@@ -9,6 +9,7 @@
 <body>
     <div>
         <h1>Verandering</h1>
+        <p>Dit is een tekst</p>
     </div>
 </body>
 </html>
